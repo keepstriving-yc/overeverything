@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi 👋
+
+I’m yuchen from South East University~
+🔭 I’m currently working on the software defect about TAP(Trigger Action Programming).
+🌱 I’m currently learning fundamentals of compiling。
+U can reach me IF u have some interest in it.
+
 
 <!--
 **overeverything/overeverything** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
